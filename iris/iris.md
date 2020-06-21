@@ -10,10 +10,10 @@
 
 ### アヤメの種類
 iris-Setosa
-![main](iris/img/iris-Setosa.jpg)
+![main](img/iris-Setosa.jpg)
 
 iris-Versicolour
-![main-2](iris/img/iris-Versicolour.jpg)
+![main-2](img/iris-Versicolour.jpg)
 
 iris-Virginca
-![main-3](iris/img/iris-Virginca.jpg)
+![main-3](img/iris-Virginca.jpg)
