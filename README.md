@@ -7,3 +7,4 @@
 - tokyo-temperature 東京の気温データ分析
 - Algorithm 最適なアルゴリズムを探す
 - OpenCV 画像編集
+- face-pro OpenCVによる画像認識プログラム
