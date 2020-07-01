@@ -8,3 +8,4 @@
 - Algorithm 最適なアルゴリズムを探す
 - OpenCV 画像編集
 - face-pro OpenCVによる画像認識プログラム
+- Digits 文字認識・手書き数字の判定
