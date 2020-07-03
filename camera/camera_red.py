@@ -18,4 +18,4 @@ while True:
 	if cv2.waitKey(1) == 13: break
 
 cap.release() # カメラを開放
-cv2.destroyAllWindows() # ウィンドウを破棄
+cv2.destroyAllWindows() # ウィンドウを破棄(escまたはenter)
