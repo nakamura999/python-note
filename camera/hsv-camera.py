@@ -1,3 +1,5 @@
+# HSV空間を使った色の検出
+
 import cv2
 import numpy as np
 
@@ -18,6 +20,7 @@ while True:
 	img[((h < 50) | (h > 200)) & (s > 100)] = 255
 	# ウィンドウに画像を出力
 	cv2.imshow('RED Camere', img)
+	# Enterキーを押されたらループを抜ける
 	if cv2.waitKey(1) == 13: break
 
 cap.release()
