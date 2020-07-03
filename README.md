@@ -9,3 +9,7 @@
 - OpenCV 画像編集
 - face-pro OpenCVによる画像認識プログラム
 - Digits 文字認識・手書き数字の判定
+##### camera 動画解析
+- camera-sample.py Webカメラの画像をリアルタイムに表示
+- camera_red.py カメラ画像から赤色成分だけを表示
+- hsv-camera.py HSVを利用した色の検出
