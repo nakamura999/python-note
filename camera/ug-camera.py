@@ -1,4 +1,4 @@
-# 画像に動くがある部分を検出
+# 画像に動くがある部分を検出(画面2つ表示)
 import cv2
 
 cap = cv2.VideoCapture(0)
