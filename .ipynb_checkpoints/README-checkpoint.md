@@ -13,3 +13,5 @@
 - camera-sample.py Webカメラの画像をリアルタイムに表示
 - camera_red.py カメラ画像から赤色成分だけを表示
 - hsv-camera.py HSVを利用した色の検出
+- ug-camera 画面に動きの会ったところを検出
+- save-camera 動画ファイルの保存
