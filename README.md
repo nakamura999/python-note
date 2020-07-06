@@ -15,3 +15,4 @@
 - hsv-camera.py HSVを利用した色の検出
 - ug-camera 画面に動きの会ったところを検出
 - save-camera 動画ファイルの保存
+- fish-camera/fish-camera2 学習済ファイルfish.pklを使った動画解析
