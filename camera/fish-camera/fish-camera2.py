@@ -40,6 +40,7 @@ while True:
 			image_data = imagex.reshape(-1, )
 			pred_y = clf.predict([image_data])
 			if pred_y[0] == 1:
+				# 魚が写っているとその領域を緑色で出力
 				fish_count += 1
 				cv2.rectangle(frame2, (x, y), (x+w, y+h), (0, 255, 0), 2)
 		# 魚が写っているか
