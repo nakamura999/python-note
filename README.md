@@ -11,7 +11,7 @@
 - Digits 文字認識・手書き数字の判定
 - word 言語判定プログラム(Unicodeのコードポイントを利用)
 - word2 文書を単語に分割
-- word3 文書を分類
+- word3 Doc2Vecで文書を分類
 ##### camera 動画解析
 - camera-sample.py Webカメラの画像をリアルタイムに表示
 - camera_red.py カメラ画像から赤色成分だけを表示
