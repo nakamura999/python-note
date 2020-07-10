@@ -12,6 +12,7 @@
 - word 言語判定プログラム(Unicodeのコードポイントを利用)
 - word2 文書を単語に分割
 - word3 Doc2Vecで文書を分類
+- word4 自動作文
 ##### camera 動画解析
 - camera-sample.py Webカメラの画像をリアルタイムに表示
 - camera_red.py カメラ画像から赤色成分だけを表示
