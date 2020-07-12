@@ -23,3 +23,4 @@
 - fish-camera/fish-camera2 学習済ファイルfish.pklを使った動画解析
 ##### deep learning
 - iris アヤメの品種分類データでの機械学習
+- tegaki MNISTデータを利用しての手書き数字の判定
