@@ -21,3 +21,5 @@
 - ug-camera 画面に動きの会ったところを検出
 - save-camera 動画ファイルの保存
 - fish-camera/fish-camera2 学習済ファイルfish.pklを使った動画解析
+##### deep learning
+- iris アヤメの品種分類データでの機械学習
